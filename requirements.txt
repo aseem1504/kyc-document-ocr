@@ -1,0 +1,6 @@
+pandas>=1.5
+pillow>=9.0
+pytesseract>=0.3.10
+# optional, only for OCR_ENGINE=google
+# google-cloud-vision>=3.0
+pytest
